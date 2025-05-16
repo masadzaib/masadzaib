@@ -21,8 +21,8 @@ Check out some of my projects on [GitHub](https://github.com/masadzaib) & [Portf
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="[https://www.facebook.com/](https://www.facebook.com/muhammadasadzaib/)" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" height="30" width="30" /></a>
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/muhammad-asadzaib-ba5a3728b/)" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://www.facebook.com/muhammadasadzaib/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/muhammad-asadzaib-ba5a3728b/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
 <a href="mailto:masadzaib.developer@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" height="30" width="30" /></a>
 </p>
 
