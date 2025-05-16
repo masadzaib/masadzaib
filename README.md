@@ -37,8 +37,9 @@ Check out some of my projects on [GitHub](https://github.com/masadzaib) & [Portf
 <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/github.png" alt="GitHub" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/netlify.png" alt="Netlify" width="40" height="40"/>
-</p>
+<img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" width="40" height="40"/>
+
 
 ---
 
